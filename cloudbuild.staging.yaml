@@ -34,4 +34,5 @@ substitutions:
     _SERVICE_NAME     : my-docker-app-staging
     _DOCKER_REGISTRY  : anashko-docker-repo
     _DOCKER_IMAGENAME : myapp-staging
+    europe-central2-docker.pkg.dev/anashko-management/anashko-docker-repo
 
