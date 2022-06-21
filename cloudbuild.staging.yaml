@@ -33,5 +33,5 @@ substitutions:
     _SERVICE_PROJECT  : anashko-staging
     _SERVICE_NAME     : my-docker-app-staging
     _DOCKER_REGISTRY  : anashko-docker-repo
-    _DOCKER_IMAGENAME : myapp-stagin
+    _DOCKER_IMAGENAME : myapp-staging
 
