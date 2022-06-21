@@ -23,4 +23,3 @@ In order to CloudBuild located in project MANAGEMENT to <b>PUSH</b> docker image
 2. In project MANAGEMENT in permissions of Artifact Registry Repository, add princial from Step-1 with the following role:
    - Artifact Registry Writer - `roles/artifactregistry.writer`
 
-## Copyleft (c) by Denis Astahov
